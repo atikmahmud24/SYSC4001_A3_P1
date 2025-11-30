@@ -1,0 +1,53 @@
++------------------------------------------------+
+|Time of Transition |PID | Old State | New State |
++------------------------------------------------+
+|                 0 |  8 |       NEW |     READY |
+|                 0 |  1 |       NEW |     READY |
+|                 0 |  9 |       NEW |     READY |
+|                 0 |  1 |     READY |   RUNNING |
+|                35 |  1 |   RUNNING |   WAITING |
+|                35 |  8 |     READY |   RUNNING |
+|                50 |  1 |   WAITING |     READY |
+|                50 |  8 |   RUNNING |     READY |
+|                50 |  1 |     READY |   RUNNING |
+|                85 |  1 |   RUNNING |   WAITING |
+|                85 |  8 |     READY |   RUNNING |
+|               100 |  1 |   WAITING |     READY |
+|               100 |  8 |   RUNNING |     READY |
+|               100 |  1 |     READY |   RUNNING |
+|               135 |  1 |   RUNNING |   WAITING |
+|               135 |  8 |     READY |   RUNNING |
+|               150 |  1 |   WAITING |     READY |
+|               150 |  8 |   RUNNING |     READY |
+|               150 |  1 |     READY |   RUNNING |
+|               185 |  1 |   RUNNING |   WAITING |
+|               185 |  8 |     READY |   RUNNING |
+|               200 |  8 |   RUNNING |   WAITING |
+|               200 |  1 |   WAITING |     READY |
+|               200 |  1 |     READY |   RUNNING |
+|               230 |  1 |   RUNNING |TERMINATED |
+|               230 |  9 |     READY |   RUNNING |
+|               270 |  8 |   WAITING |     READY |
+|               270 |  9 |   RUNNING |     READY |
+|               270 |  8 |     READY |   RUNNING |
+|               330 |  8 |   RUNNING |   WAITING |
+|               330 |  9 |     READY |   RUNNING |
+|               335 |  9 |   RUNNING |   WAITING |
+|               355 |  8 |   WAITING |     READY |
+|               355 |  8 |     READY |   RUNNING |
+|               393 |  9 |   WAITING |     READY |
+|               415 |  8 |   RUNNING |   WAITING |
+|               415 |  9 |     READY |   RUNNING |
+|               440 |  8 |   WAITING |     READY |
+|               440 |  9 |   RUNNING |     READY |
+|               440 |  8 |     READY |   RUNNING |
+|               480 |  8 |   RUNNING |TERMINATED |
+|               480 |  9 |     READY |   RUNNING |
+|               500 |  9 |   RUNNING |   WAITING |
+|               543 |  9 |   WAITING |     READY |
+|               543 |  9 |     READY |   RUNNING |
+|               588 |  9 |   RUNNING |   WAITING |
+|               606 |  9 |   WAITING |     READY |
+|               606 |  9 |     READY |   RUNNING |
+|               611 |  9 |   RUNNING |TERMINATED |
++------------------------------------------------+

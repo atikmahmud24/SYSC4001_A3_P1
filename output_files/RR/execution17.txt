@@ -1,0 +1,46 @@
++------------------------------------------------+
+|Time of Transition |PID | Old State | New State |
++------------------------------------------------+
+|                 0 |  2 |       NEW |     READY |
+|                 0 |  9 |       NEW |     READY |
+|                 0 |  1 |       NEW |     READY |
+|                 0 |  2 |     READY |   RUNNING |
+|                10 |  2 |   RUNNING |   WAITING |
+|                10 |  9 |     READY |   RUNNING |
+|                15 |  2 |   WAITING |     READY |
+|                18 |  9 |   RUNNING |   WAITING |
+|                18 |  1 |     READY |   RUNNING |
+|                22 |  9 |   WAITING |     READY |
+|                23 |  1 |   RUNNING |   WAITING |
+|                23 |  2 |     READY |   RUNNING |
+|                28 |  1 |   WAITING |     READY |
+|                33 |  2 |   RUNNING |   WAITING |
+|                33 |  9 |     READY |   RUNNING |
+|                38 |  2 |   WAITING |     READY |
+|                41 |  9 |   RUNNING |   WAITING |
+|                41 |  1 |     READY |   RUNNING |
+|                45 |  9 |   WAITING |     READY |
+|                46 |  1 |   RUNNING |   WAITING |
+|                46 |  2 |     READY |   RUNNING |
+|                51 |  1 |   WAITING |     READY |
+|                56 |  2 |   RUNNING |   WAITING |
+|                56 |  9 |     READY |   RUNNING |
+|                61 |  2 |   WAITING |     READY |
+|                64 |  9 |   RUNNING |   WAITING |
+|                64 |  1 |     READY |   RUNNING |
+|                68 |  9 |   WAITING |     READY |
+|                69 |  1 |   RUNNING |   WAITING |
+|                69 |  2 |     READY |   RUNNING |
+|                74 |  1 |   WAITING |     READY |
+|                79 |  2 |   RUNNING |TERMINATED |
+|                79 |  9 |     READY |   RUNNING |
+|                87 |  9 |   RUNNING |   WAITING |
+|                87 |  1 |     READY |   RUNNING |
+|                91 |  9 |   WAITING |     READY |
+|                92 |  1 |   RUNNING |   WAITING |
+|                92 |  9 |     READY |   RUNNING |
+|                95 |  9 |   RUNNING |TERMINATED |
+|                97 |  1 |   WAITING |     READY |
+|                97 |  1 |     READY |   RUNNING |
+|               102 |  1 |   RUNNING |TERMINATED |
++------------------------------------------------+

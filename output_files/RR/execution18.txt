@@ -1,0 +1,43 @@
++------------------------------------------------+
+|Time of Transition |PID | Old State | New State |
++------------------------------------------------+
+|                 0 |  8 |       NEW |     READY |
+|                 0 | 10 |       NEW |     READY |
+|                 0 |  3 |       NEW |     READY |
+|                 0 |  8 |     READY |   RUNNING |
+|                12 |  8 |   RUNNING |   WAITING |
+|                12 | 10 |     READY |   RUNNING |
+|                18 |  8 |   WAITING |     READY |
+|                32 | 10 |   RUNNING |   WAITING |
+|                32 |  3 |     READY |   RUNNING |
+|                42 |  3 |   RUNNING |   WAITING |
+|                42 | 10 |   WAITING |     READY |
+|                42 |  8 |     READY |   RUNNING |
+|                47 |  3 |   WAITING |     READY |
+|                54 |  8 |   RUNNING |   WAITING |
+|                54 | 10 |     READY |   RUNNING |
+|                60 |  8 |   WAITING |     READY |
+|                74 | 10 |   RUNNING |   WAITING |
+|                74 |  3 |     READY |   RUNNING |
+|                84 |  3 |   RUNNING |   WAITING |
+|                84 | 10 |   WAITING |     READY |
+|                84 |  8 |     READY |   RUNNING |
+|                89 |  3 |   WAITING |     READY |
+|                96 |  8 |   RUNNING |   WAITING |
+|                96 | 10 |     READY |   RUNNING |
+|               102 |  8 |   WAITING |     READY |
+|               116 | 10 |   RUNNING |   WAITING |
+|               116 |  3 |     READY |   RUNNING |
+|               126 |  3 |   RUNNING |   WAITING |
+|               126 | 10 |   WAITING |     READY |
+|               126 |  8 |     READY |   RUNNING |
+|               131 |  3 |   WAITING |     READY |
+|               138 |  8 |   RUNNING |   WAITING |
+|               138 | 10 |     READY |   RUNNING |
+|               144 |  8 |   WAITING |     READY |
+|               148 | 10 |   RUNNING |TERMINATED |
+|               148 |  3 |     READY |   RUNNING |
+|               158 |  3 |   RUNNING |TERMINATED |
+|               158 |  8 |     READY |   RUNNING |
+|               160 |  8 |   RUNNING |TERMINATED |
++------------------------------------------------+

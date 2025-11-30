@@ -1,0 +1,192 @@
+================ MEMORY STATUS ================
+Time: 0
+
+Partition | Size | Occupied by
+------------------------------------------
+1         | 40 MB | free
+2         | 25 MB | free
+3         | 15 MB | free
+4         | 10 MB | free
+5         | 8 MB | free
+6         | 2 MB | PID 4
+
+Total Used: 2 MB
+Total Free: 98 MB
+==============================================
+
+================ MEMORY STATUS ================
+Time: 0
+
+Partition | Size | Occupied by
+------------------------------------------
+1         | 40 MB | free
+2         | 25 MB | free
+3         | 15 MB | free
+4         | 10 MB | free
+5         | 8 MB | PID 7
+6         | 2 MB | PID 4
+
+Total Used: 10 MB
+Total Free: 90 MB
+==============================================
+
+================ MEMORY STATUS ================
+Time: 0
+
+Partition | Size | Occupied by
+------------------------------------------
+1         | 40 MB | free
+2         | 25 MB | free
+3         | 15 MB | free
+4         | 10 MB | PID 2
+5         | 8 MB | PID 7
+6         | 2 MB | PID 4
+
+Total Used: 20 MB
+Total Free: 80 MB
+==============================================
+
+================ MEMORY STATUS ================
+Time: 12
+
+Partition | Size | Occupied by
+------------------------------------------
+1         | 40 MB | free
+2         | 25 MB | free
+3         | 15 MB | free
+4         | 10 MB | PID 2
+5         | 8 MB | PID 7
+6         | 2 MB | free
+
+Total Used: 18 MB
+Total Free: 82 MB
+==============================================
+
+================ MEMORY STATUS ================
+Time: 32
+
+Partition | Size | Occupied by
+------------------------------------------
+1         | 40 MB | free
+2         | 25 MB | free
+3         | 15 MB | free
+4         | 10 MB | PID 2
+5         | 8 MB | free
+6         | 2 MB | free
+
+Total Used: 10 MB
+Total Free: 90 MB
+==============================================
+
+================ MEMORY STATUS ================
+Time: 47
+
+Partition | Size | Occupied by
+------------------------------------------
+1         | 40 MB | free
+2         | 25 MB | free
+3         | 15 MB | free
+4         | 10 MB | free
+5         | 8 MB | free
+6         | 2 MB | free
+
+Total Used: 0 MB
+Total Free: 100 MB
+==============================================
+
+================ MEMORY STATUS ================
+Time: 0
+
+Partition | Size | Occupied by
+------------------------------------------
+1         | 40 MB | free
+2         | 25 MB | free
+3         | 15 MB | free
+4         | 10 MB | free
+5         | 8 MB | free
+6         | 2 MB | PID 4
+
+Total Used: 2 MB
+Total Free: 98 MB
+==============================================
+
+================ MEMORY STATUS ================
+Time: 0
+
+Partition | Size | Occupied by
+------------------------------------------
+1         | 40 MB | free
+2         | 25 MB | free
+3         | 15 MB | free
+4         | 10 MB | free
+5         | 8 MB | PID 7
+6         | 2 MB | PID 4
+
+Total Used: 10 MB
+Total Free: 90 MB
+==============================================
+
+================ MEMORY STATUS ================
+Time: 0
+
+Partition | Size | Occupied by
+------------------------------------------
+1         | 40 MB | free
+2         | 25 MB | free
+3         | 15 MB | free
+4         | 10 MB | PID 2
+5         | 8 MB | PID 7
+6         | 2 MB | PID 4
+
+Total Used: 20 MB
+Total Free: 80 MB
+==============================================
+
+================ MEMORY STATUS ================
+Time: 15
+
+Partition | Size | Occupied by
+------------------------------------------
+1         | 40 MB | free
+2         | 25 MB | free
+3         | 15 MB | free
+4         | 10 MB | free
+5         | 8 MB | PID 7
+6         | 2 MB | PID 4
+
+Total Used: 10 MB
+Total Free: 90 MB
+==============================================
+
+================ MEMORY STATUS ================
+Time: 27
+
+Partition | Size | Occupied by
+------------------------------------------
+1         | 40 MB | free
+2         | 25 MB | free
+3         | 15 MB | free
+4         | 10 MB | free
+5         | 8 MB | PID 7
+6         | 2 MB | free
+
+Total Used: 8 MB
+Total Free: 92 MB
+==============================================
+
+================ MEMORY STATUS ================
+Time: 47
+
+Partition | Size | Occupied by
+------------------------------------------
+1         | 40 MB | free
+2         | 25 MB | free
+3         | 15 MB | free
+4         | 10 MB | free
+5         | 8 MB | free
+6         | 2 MB | free
+
+Total Used: 0 MB
+Total Free: 100 MB
+==============================================
+
